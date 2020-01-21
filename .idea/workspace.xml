@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae94afd9-2964-49de-aacb-b6177a71bf38" name="Default Changelist" comment="" />
+    <list default="true" id="ae94afd9-2964-49de-aacb-b6177a71bf38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ticketing_system/flask_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ticketing_system/flask_settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,18 +27,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ticketing_system/requests/list_tickets_request_object.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ticketing_system/requests/create_ticket_request_object.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-308">
@@ -49,22 +39,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ticketing_system/requests/get_and_update_ticket_request_object.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ticketing_system/rest/ticket.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-112">
-              <caret line="35" column="72" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="35" selection-end-column="72" />
+              <caret line="35" column="72" selection-start-line="29" selection-start-column="8" selection-end-line="35" selection-end-column="72" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -76,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/ticketing_system/repository/postgres_repo/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="291">
-              <caret line="27" column="56" lean-forward="true" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+              <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -97,6 +75,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticketing_system/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ticketing_system/use_cases/ticket_use_cases.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="840">
@@ -111,19 +101,19 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ticketing_system/flask_settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+            <state relative-caret-position="434">
+              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ticketing_system/repository/postgres_repo/reply_repo.py">
+        <entry file="file://$PROJECT_DIR$/initial_db_setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="31" column="109" selection-start-line="31" selection-start-column="75" selection-end-line="31" selection-end-column="109" />
+            <state relative-caret-position="211">
+              <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
               <folding>
-                <element signature="e#0#62#0" expanded="true" />
+                <element signature="e#0#6#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,10 +122,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ticketing_system/repository/postgres_repo/ticket_repo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1064">
+            <state relative-caret-position="-28">
               <caret line="54" selection-start-line="54" selection-end-line="54" />
               <folding>
                 <element signature="e#0#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticketing_system/repository/postgres_repo/reply_repo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="31" column="109" selection-start-line="31" selection-start-column="75" selection-end-line="31" selection-end-column="109" />
+              <folding>
+                <element signature="e#0#62#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -156,7 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/requirements_dev.txt" />
         <option value="$PROJECT_DIR$/ticketing_system/domain/base.py" />
         <option value="$PROJECT_DIR$/ticketing_system/serializers/user_json_serializer.py" />
         <option value="$PROJECT_DIR$/tests/domain/test_user.py" />
@@ -206,6 +207,7 @@
         <option value="$PROJECT_DIR$/ticketing_system/requests/create_ticket_request_object.py" />
         <option value="$PROJECT_DIR$/ticketing_system/repository/postgres_repo/ticket_repo.py" />
         <option value="$PROJECT_DIR$/ticketing_system/use_cases/ticket_use_cases.py" />
+        <option value="$PROJECT_DIR$/initial_db_setup.py" />
         <option value="$PROJECT_DIR$/ticketing_system/flask_settings.py" />
       </list>
     </option>
@@ -248,12 +250,6 @@
               <item name="ticketing_system" type="b2602c69:ProjectViewProjectNode" />
               <item name="ticketing_system" type="462c0819:PsiDirectoryNode" />
               <item name="ticketing_system" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ticketing_system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ticketing_system" type="462c0819:PsiDirectoryNode" />
-              <item name="ticketing_system" type="462c0819:PsiDirectoryNode" />
               <item name="repository" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -262,18 +258,6 @@
               <item name="ticketing_system" type="462c0819:PsiDirectoryNode" />
               <item name="repository" type="462c0819:PsiDirectoryNode" />
               <item name="postgres_repo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ticketing_system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ticketing_system" type="462c0819:PsiDirectoryNode" />
-              <item name="ticketing_system" type="462c0819:PsiDirectoryNode" />
-              <item name="requests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ticketing_system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ticketing_system" type="462c0819:PsiDirectoryNode" />
-              <item name="ticketing_system" type="462c0819:PsiDirectoryNode" />
-              <item name="use_cases" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -327,15 +311,16 @@
       <updated>1579430920806</updated>
       <workItem from="1579430925714" duration="6449000" />
       <workItem from="1579538931351" duration="19922000" />
-      <workItem from="1579563493267" duration="37160000" />
+      <workItem from="1579563493267" duration="38584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63531000" />
+    <option name="totallyTimeSpent" value="64955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-4" width="1368" height="773" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25757575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -351,7 +336,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.5802099" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5802099" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3298351" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -599,16 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ticketing_system/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ticketing_system/repository/postgres_repo/user_repo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -656,16 +631,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ticketing_system/repository/postgres_repo/reply_repo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="31" column="109" selection-start-line="31" selection-start-column="75" selection-end-line="31" selection-end-column="109" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ticketing_system/requests/list_tickets_request_object.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -689,7 +654,7 @@
     <entry file="file://$PROJECT_DIR$/ticketing_system/rest/ticket.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-112">
-          <caret line="35" column="72" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="35" selection-end-column="72" />
+          <caret line="35" column="72" selection-start-line="29" selection-start-column="8" selection-end-line="35" selection-end-column="72" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -719,19 +684,9 @@
     <entry file="file://$PROJECT_DIR$/ticketing_system/repository/postgres_repo/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
-          <caret line="27" column="56" lean-forward="true" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ticketing_system/repository/postgres_repo/ticket_repo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="e#0#65#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -746,10 +701,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ticketing_system/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticketing_system/repository/postgres_repo/reply_repo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="31" column="109" selection-start-line="31" selection-start-column="75" selection-end-line="31" selection-end-column="109" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticketing_system/repository/postgres_repo/ticket_repo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/initial_db_setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#6#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ticketing_system/flask_settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+        <state relative-caret-position="434">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
         </state>
       </provider>
     </entry>
