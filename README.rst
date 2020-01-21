@@ -16,7 +16,7 @@ ticketing_system
 
 
 
-A tool that would allow a customer to directly reach out to a customer support from within any app via a ticketing system
+A tool that would allow a customer to directly reach out to a customer support from within any app via a ticketing system.
 
 
 * Free software: MIT license
